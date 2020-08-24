@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfredo</h1>
 <h3 align="center">A passionate User Interface Engineeeeer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredoperez" alt="alfredoperez" /> </p>
+
+
 <p align="center">
  <a href="https://dev.to/alfredoperez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alfredoperez" height="30" width="30" /></a>
  <a href="https://twitter.com/alfrodo_perez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alfrodo_perez" height="30" width="30" /></a>
@@ -30,7 +33,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredoperez" alt="alfredoperez" /> </p>
 
 - 🌱 I’m interested in **Angular, D3, NgRx, Firebase, and component libraries**
 
