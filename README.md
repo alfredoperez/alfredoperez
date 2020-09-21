@@ -41,7 +41,7 @@
 ### Latest logs posts
 <!-- BLOG-POST-LIST:START -->
 - [Where to initialize components selectors in Angular?](https://dev.to/alfredoperez/where-to-initialize-components-selectors-in-angular-a0g)
-- [Angular 10 - Setting up Jest](https://dev.to/alfredoperez/angular-10-setting-up-jest-2m0l)
+- [How to Set Up Angular 10 Unit Testing with Jest](https://dev.to/alfredoperez/angular-10-setting-up-jest-2m0l)
 - [Notes from Advanced NgRx](https://dev.to/alfredoperez/notes-from-advanced-ngrx-43c4)
 - [NGRX Workshop Notes - Other links](https://dev.to/alfredoperez/ngrx-workshop-notes-other-links-43o6)
 - [NGRX Workshop Notes - Folder Structure](https://dev.to/alfredoperez/ngrx-workshop-notes-folder-structure-3ame)
