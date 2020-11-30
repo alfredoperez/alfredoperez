@@ -33,9 +33,6 @@
 </p>
 
 
-
-- 🌱 I’m interested in **Angular, D3, NgRx, Firebase, and component libraries**
-
 - 📝 I regularly write articles on [https://dev.to/alfredoperez](https://dev.to/alfredoperez)
 
 ### Latest logs posts
