@@ -34,4 +34,4 @@ I created a digital garden where I save all my notes (not blog posts or articles
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredoperez&theme=shades-of-purple&show_icons=true" alt="alfredoperez" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfredoperez&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfredoperez&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
