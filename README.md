@@ -18,6 +18,20 @@
 I created a digital garden where I save all my notes (not blog posts or articles) Here are some of the latests ones:
 
 <!--START_SECTION:feed-->
+#### [Using ScriptKit for Pull Request Comments](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Using ScriptKit for Pull Request Comments) 
+**
+#### [Configure Tailwind and DaisyUI in StoryBook when using Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Configure Tailwind and DaisyUI in StoryBook when using Nx) 
+**
+#### [Professional Angular Testing Workshop](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Professional Angular Testing Workshop) 
+**
+#### [Testing Web Apps with Cypress](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Testing Web Apps with Cypress) 
+**
+#### [Prefer using Component Store or services with a behavior subject for local state](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Prefer using Component Store or services with a behavior subject for local   state) 
+**
+#### [Modify Network Requests](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Modify Network Requests) 
+**
+#### [NgRx Fundamentals Workshop at ng-conf 2020](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;NgRx Fundamentals Workshop at ng-conf 2020) 
+**
 <!--END_SECTION:feed-->
 
 
