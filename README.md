@@ -18,6 +18,8 @@
 I created a digital garden where I save all my notes (not blog posts or articles) Here are some of the latests ones:
 
 <!--START_SECTION:feed-->
+#### [My notes from Ng-conf 2022](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My notes from Ng-conf 2022) 
+**
 #### [Using ScriptKit for Pull Request Comments](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Using ScriptKit for Pull Request Comments) 
 **
 #### [Configure Tailwind and DaisyUI in StoryBook when using Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Configure Tailwind and DaisyUI in StoryBook when using Nx) 
