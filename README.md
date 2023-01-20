@@ -18,7 +18,7 @@
 I created a digital garden where I save all my notes (not blog posts or articles) Here are some of the latests ones:
 
 <!--START_SECTION:feed-->
-#### [Angular Testing Examples and guides](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Angular Testing Examples and guides) 
+#### [Angular Testing Examples and guides](https%3A//alfredo-perez.dev/notes/Creating%20a%20starter%20template%20for%20blog%20using%20NextJS%2C%20Nx%20and%20Contentlaye) 
 **
 #### [Creating a template for blog using NextJS, Nx and Contentlayer](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Creating a starter template for blog using NextJS, Nx and Contentlayer) 
 **
