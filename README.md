@@ -18,25 +18,25 @@
 I created a digital garden where I save all my notes (not blog posts or articles) Here are some of the latests ones:
 
 <!--START_SECTION:feed-->
-#### [Angular Testing Examples and guides](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Angular Testing Examples and guides) 
+#### [Creating Libs in Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Creating Libs in Nx) 
 **
-#### [Creating a template for blog using NextJS, Nx and Contentlayer](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Creating a starter template for blog using NextJS, Nx and Contentlayer) 
+#### [Animate and higlight code in presentations](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Animate and higlight code in presentations) 
 **
-#### [Inspiration for Personal Blog or Digital Garden](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Inspiration for Personal Blog or Digital Garden) 
+#### [Design Patterns for front-end Developers Workshop](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Design Patterns for front-end Developers Workshop) 
 **
-#### [Inspiration for GitHub Profile](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Inspiration for GitHub Profile) 
+#### [My notes from IJS Conference 2022](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My notes from IJS Conference 2022) 
 **
-#### [My Repositories](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My Repositories) 
+#### [My notes from Ng-conf 2022](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My notes from Ng-conf 2022) 
 **
-#### [The missing guide about testing services with Jest](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Angular&#x2F;The missing guide about testing services with Jest) 
+#### [Using ScriptKit for Pull Request Comments](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Using ScriptKit for Pull Request Comments) 
 **
-#### [Test Harnesses with Angular and Cypress](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Angular&#x2F;Test Harnesses with Angular and Cypress) 
+#### [Configure Tailwind and DaisyUI in StoryBook when using Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Configure Tailwind and DaisyUI in StoryBook when using Nx) 
 **
-#### [Alfred Workflows](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Alfred Workflows) 
+#### [Professional Angular Testing Workshop](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Professional Angular Testing Workshop) 
 **
-#### [Going beyond prettifying with Prettier and Angular](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Angular&#x2F;Going beyond prettifying with Prettier and Angular) 
+#### [Testing Web Apps with Cypress](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Testing Web Apps with Cypress) 
 **
-#### [Assets needed for a website](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Assets needed for a website) 
+#### [My Notes from Gatsby Camp Fall 2021](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My Notes from Gatsby Camp Fall 2021) 
 **
 <!--END_SECTION:feed-->
 
