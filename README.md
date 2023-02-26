@@ -25,11 +25,11 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Crea una aplicación Angular en minutos con Cypress, StoryBook, Tailwind CSS y Nx](https://medium.com/ngconf/crea-una-aplicaci%C3%B3n-angular-en-minutos-con-cypress-storybook-tailwind-css-y-nx-d89293ca0936?source=rss-38963be9c57a------2)
+- [Creating an Angular app in minutes with Cypress, StoryBook, Tailwind CSS and Nx](https://medium.com/ngconf/creating-an-angular-app-in-minutes-with-cypress-storybook-tailwind-css-and-nx-2105fb22f3e1?source=rss-38963be9c57a------2)
 - [Learnings from Accessibility Workshop from Enterprise NG 2020](https://dev.to/alfredoperez/learnings-from-accessibility-workshop-from-enterprise-ng-2020-2k57)
 - [Testing an Effect using observer-spy](https://dev.to/alfredoperez/testing-an-effect-using-observer-spy-4anj)
 - [Where to initialize components selectors in Angular?](https://dev.to/alfredoperez/where-to-initialize-components-selectors-in-angular-a0g)
-- [Angular 11 - Setting up Jest](https://dev.to/alfredoperez/angular-10-setting-up-jest-2m0l)
-- [Notes from Advanced NgRx](https://dev.to/alfredoperez/notes-from-advanced-ngrx-43c4)
 <!-- BLOG-POST-LIST:END -->
 
 
