@@ -25,6 +25,9 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
+- [Maneja el estado de tu Angular app usando Signals](https://medium.com/ngconf/maneja-el-estado-de-tu-angular-app-usando-signals-d3968fe636ad?source=rss-38963be9c57a------2)
+- [Handling user actions with signals in angular](https://medium.com/ngconf/handling-user-actions-with-signals-in-angular-ff40bb63e857?source=rss-38963be9c57a------2)
 - [Keeping state with a Service using Signals](https://medium.com/ngconf/keeping-state-with-a-service-using-signals-bee652158ecf?source=rss-38963be9c57a------2)
 - [Crea una aplicación Angular en minutos con Cypress, StoryBook, Tailwind CSS y Nx](https://medium.com/ngconf/crea-una-aplicaci%C3%B3n-angular-en-minutos-con-cypress-storybook-tailwind-css-y-nx-d89293ca0936?source=rss-38963be9c57a------2)
 - [Creating an Angular app in minutes with Cypress, StoryBook, Tailwind CSS and Nx](https://medium.com/ngconf/creating-an-angular-app-in-minutes-with-cypress-storybook-tailwind-css-and-nx-2105fb22f3e1?source=rss-38963be9c57a------2)
@@ -42,7 +45,6 @@
 - [NGRX Workshop Notes - Reducers](https://dev.to/alfredoperez/ngrx-workshop-notes-reducers-5cn2)
 - [Publish Angular Library created with Nx to NPM](https://medium.com/@alfredo.perez.q/publish-angular-library-created-with-nx-to-npm-3870f4d852ed?source=rss-38963be9c57a------2)
 - [Publish Angular Library documentation created with Nx using TravisCI and GitHub Pages](https://medium.com/@alfredo.perez.q/publish-angular-library-documentation-created-with-nx-using-travisci-and-github-pages-27854598239c?source=rss-38963be9c57a------2)
-- [Creating an Angular library with Nx](https://medium.com/@alfredo.perez.q/creating-an-angular-library-with-nx-83c2f633c4aa?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
