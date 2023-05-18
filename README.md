@@ -25,6 +25,7 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Keeping state with a Service using Signals](https://medium.com/ngconf/keeping-state-with-a-service-using-signals-bee652158ecf?source=rss-38963be9c57a------2)
 - [Crea una aplicación Angular en minutos con Cypress, StoryBook, Tailwind CSS y Nx](https://medium.com/ngconf/crea-una-aplicaci%C3%B3n-angular-en-minutos-con-cypress-storybook-tailwind-css-y-nx-d89293ca0936?source=rss-38963be9c57a------2)
 - [Creating an Angular app in minutes with Cypress, StoryBook, Tailwind CSS and Nx](https://medium.com/ngconf/creating-an-angular-app-in-minutes-with-cypress-storybook-tailwind-css-and-nx-2105fb22f3e1?source=rss-38963be9c57a------2)
 - [Learnings from Accessibility Workshop from Enterprise NG 2020](https://dev.to/alfredoperez/learnings-from-accessibility-workshop-from-enterprise-ng-2020-2k57)
