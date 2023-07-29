@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alfredo</h1>
-<h3 align="center">A passionate User Interface Engineeeeer</h3>
 <p align="center"> <a href="https://twitter.com/alfrodo_perez" target="blank"><img src="https://img.shields.io/twitter/follow/alfrodo_perez?logo=twitter&style=for-the-badge" alt="alfrodo_perez" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredoperez&label=Profile%20views&color=0e75b6&style=flat" alt="alfredoperez" /> </p>
