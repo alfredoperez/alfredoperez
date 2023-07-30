@@ -19,9 +19,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
         with:
-          feed-url: https://alfredo-perez.dev/rss.xml
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          url: 'https://alfredo-perez.dev/rss.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
