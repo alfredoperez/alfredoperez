@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo</h1>
 <p align="center"> <a href="https://twitter.com/alfrodo_perez" target="blank"><img src="https://img.shields.io/twitter/follow/alfrodo_perez?logo=twitter&style=for-the-badge" alt="alfrodo_perez" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredoperez&label=Profile%20views&color=0e75b6&style=flat" alt="alfredoperez" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alfredoperez&label=Profile%20views&color=0e75b6&style=flat" alt="alfredoperez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredoperez" alt="alfredoperez" /></a> </p>
 
@@ -58,24 +58,5 @@
 I created a digital garden where I save all my notes (not blog posts or articles) Here are some of the latests ones:
 
 <!--START_SECTION:feed-->
-#### [Creating Libs in Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Creating Libs in Nx) 
-**
-#### [Animate and higlight code in presentations](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Animate and higlight code in presentations) 
-**
-#### [Design Patterns for front-end Developers Workshop](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Design Patterns for front-end Developers Workshop) 
-**
-#### [My notes from IJS Conference 2022](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My notes from IJS Conference 2022) 
-**
-#### [My notes from Ng-conf 2022](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My notes from Ng-conf 2022) 
-**
-#### [Using ScriptKit for Pull Request Comments](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Using ScriptKit for Pull Request Comments) 
-**
-#### [Configure Tailwind and DaisyUI in StoryBook when using Nx](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Configure Tailwind and DaisyUI in StoryBook when using Nx) 
-**
-#### [Professional Angular Testing Workshop](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Professional Angular Testing Workshop) 
-**
-#### [Testing Web Apps with Cypress](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;Testing Web Apps with Cypress) 
-**
-#### [My Notes from Gatsby Camp Fall 2021](https:&#x2F;&#x2F;alfredo-perez.dev&#x2F;notes&#x2F;My Notes from Gatsby Camp Fall 2021) 
-**
+
 <!--END_SECTION:feed-->
