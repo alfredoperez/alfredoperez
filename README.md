@@ -25,6 +25,7 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
+- [View Transitions API in Angular 17](https://medium.com/ngconf/view-transitions-api-in-angular-17-1d1ea8bb2703?source=rss-38963be9c57a------2)
 - [Using Prettier in Angular HTML](https://medium.com/@alfredo.perez.q/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
 - [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
 - [Maneja el estado de tu Angular app usando Signals](https://medium.com/ngconf/maneja-el-estado-de-tu-angular-app-usando-signals-d3968fe636ad?source=rss-38963be9c57a------2)
@@ -44,7 +45,6 @@
 - [NGRX Workshop Notes - Effects](https://dev.to/alfredoperez/ngrx-workshop-notes-effects-ief)
 - [NGRX Workshop Notes - Selectors](https://dev.to/alfredoperez/ngrx-workshop-notes-selectors-3n3k)
 - [NGRX Workshop Notes - Reducers](https://dev.to/alfredoperez/ngrx-workshop-notes-reducers-5cn2)
-- [Publish Angular Library created with Nx to NPM](https://medium.com/@alfredo.perez.q/publish-angular-library-created-with-nx-to-npm-3870f4d852ed?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
