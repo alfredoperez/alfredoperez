@@ -26,7 +26,7 @@
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
 - [View Transitions API in Angular 17](https://medium.com/ngconf/view-transitions-api-in-angular-17-1d1ea8bb2703?source=rss-38963be9c57a------2)
-- [Using Prettier in Angular HTML](https://medium.com/@alfredo.perez.q/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
+- [Using Prettier in Angular HTML](https://medium.com/ngconf/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
 - [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
 - [Maneja el estado de tu Angular app usando Signals](https://medium.com/ngconf/maneja-el-estado-de-tu-angular-app-usando-signals-d3968fe636ad?source=rss-38963be9c57a------2)
 - [Handling user actions with signals in angular](https://medium.com/ngconf/handling-user-actions-with-signals-in-angular-ff40bb63e857?source=rss-38963be9c57a------2)
