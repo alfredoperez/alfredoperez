@@ -64,8 +64,8 @@ I created a digital garden where I save all my notes (not blog posts or articles
 
 <!-- feed start -->
 - Sep 19 - [Prettifying HTML in Angular](https://alfredo-perez.dev/prettifying-html-in-angular)
+- Sep 19 - [Using Prettier in Angular HTML](https://alfredo-perez.dev/using-prettier-in-angular-html)
 - Jul 22 - [TIL: nuggets from ng-conf 2023](https://alfredo-perez.dev/til-nuggets-from-ng-conf-2023)
 - Jun 14 - [Slides from ng-conf Lollapalooza Lighting Talks 2023!](https://alfredo-perez.dev/slides-from-ng-conf-lollapalooza-lighting-talks-2023)
 - Jun 13 - [Achieving a better developer experience in your integration tests with StoryBook and Cypress](https://alfredo-perez.dev/achieving-a-better-developer-experience-in-your-integration-tests-with-storybook-and-cypress)
-- Nov 23 - [Notes from Accessibility Workshop from Enterprise NG 2020](https://alfredo-perez.dev/notes-from-accessibility-workshop-from-enterprise-ng-2020)
 <!-- feed end -->
