@@ -25,6 +25,7 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
 - [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
 - [Improve loading times with the @defer block in Angular](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?source=rss-38963be9c57a------2)
 - [Mejorando los tiempos de carga con el @defer block en Angular](https://medium.com/ngconf/mejorando-los-tiempos-de-carga-con-el-defer-block-en-angular-7a9ba1c181f1?source=rss-38963be9c57a------2)
@@ -33,7 +34,6 @@
 - [Using Prettier in Angular HTML](https://medium.com/ngconf/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
 - [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
 - [Maneja el estado de tu Angular app usando Signals](https://medium.com/ngconf/maneja-el-estado-de-tu-angular-app-usando-signals-d3968fe636ad?source=rss-38963be9c57a------2)
-- [Handling user actions with signals in angular](https://medium.com/ngconf/handling-user-actions-with-signals-in-angular-ff40bb63e857?source=rss-38963be9c57a------2)
 - [Learnings from Accessibility Workshop from Enterprise NG 2020](https://dev.to/alfredoperez/learnings-from-accessibility-workshop-from-enterprise-ng-2020-2k57)
 - [Testing an Effect using observer-spy](https://dev.to/alfredoperez/testing-an-effect-using-observer-spy-4anj)
 - [Where to initialize components selectors in Angular?](https://dev.to/alfredoperez/where-to-initialize-components-selectors-in-angular-a0g)
