@@ -1,4 +1,4 @@
-name: Update readme with blog posts
+name: Add posts from alfredo-perez.dev
 on: 
   schedule:
     # Once a day at 8 AM
