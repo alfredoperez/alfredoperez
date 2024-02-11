@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Add posts from Medium
 on:
   schedule:
     # Runs every hour
