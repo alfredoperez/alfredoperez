@@ -25,15 +25,6 @@
 
 ### Latest logs posts:
 <!-- BLOG-POST-LIST:START -->
-- [StoryBook setup tips for Angular applications](https://medium.com/ngconf/storybook-setup-tips-for-angular-applications-650692751cb4?source=rss-38963be9c57a------2)
-- [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
-- [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
-- [Improve loading times with the @defer block in Angular](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?source=rss-38963be9c57a------2)
-- [Mejorando los tiempos de carga con el @defer block en Angular](https://medium.com/ngconf/mejorando-los-tiempos-de-carga-con-el-defer-block-en-angular-7a9ba1c181f1?source=rss-38963be9c57a------2)
-- [View Transitions API en Angular 17](https://medium.com/ngconf/view-transitions-api-en-angular-17-99dea9ef35e2?source=rss-38963be9c57a------2)
-- [View Transitions API in Angular 17](https://medium.com/ngconf/view-transitions-api-in-angular-17-1d1ea8bb2703?source=rss-38963be9c57a------2)
-- [Using Prettier in Angular HTML](https://medium.com/ngconf/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
-- [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
 - [Learnings from Accessibility Workshop from Enterprise NG 2020](https://dev.to/alfredoperez/learnings-from-accessibility-workshop-from-enterprise-ng-2020-2k57)
 - [Testing an Effect using observer-spy](https://dev.to/alfredoperez/testing-an-effect-using-observer-spy-4anj)
 - [Where to initialize components selectors in Angular?](https://dev.to/alfredoperez/where-to-initialize-components-selectors-in-angular-a0g)
@@ -45,6 +36,7 @@
 - [NGRX Workshop Notes - Entity](https://dev.to/alfredoperez/ngrx-workshop-notes-entity-26f2)
 - [NGRX Workshop Notes - Effects](https://dev.to/alfredoperez/ngrx-workshop-notes-effects-ief)
 - [NGRX Workshop Notes - Selectors](https://dev.to/alfredoperez/ngrx-workshop-notes-selectors-3n3k)
+- [NGRX Workshop Notes - Reducers](https://dev.to/alfredoperez/ngrx-workshop-notes-reducers-5cn2)
 <!-- BLOG-POST-LIST:END -->
 
 
