@@ -2,18 +2,18 @@ name: Add posts from Medium
 on:
   schedule:
     # Runs every hour
-    - cron: '30 5,17 * * *'
-workflow_dispatch:
-  inputs:
-    logLevel:
-      description: 'Log level'
-      required: true
-      default: 'warning'
-      type: choice
-      options:
-      - info
-      - warning
-      - debug
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+          - info
+          - warning
+          - debug
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
