@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Query in Angular](https://medium.com/ngconf/tanstack-query-in-angular-5520dab44882?source=rss-38963be9c57a------2)
 - [StoryBook setup tips for Angular applications](https://medium.com/ngconf/storybook-setup-tips-for-angular-applications-650692751cb4?source=rss-38963be9c57a------2)
 - [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
 - [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [View Transitions API in Angular 17](https://medium.com/ngconf/view-transitions-api-in-angular-17-1d1ea8bb2703?source=rss-38963be9c57a------2)
 - [Using Prettier in Angular HTML](https://medium.com/ngconf/using-prettier-in-angular-html-52efa7af625b?source=rss-38963be9c57a------2)
 - [TIL: nuggets from ng-conf 2023](https://medium.com/@alfredo.perez.q/til-nuggets-from-ng-conf-2023-5e9dfbd2765a?source=rss-38963be9c57a------2)
-- [Reaccionando a las interacciones del usuario con Signals](https://medium.com/ngconf/reaccionando-a-las-interacciones-del-usuario-con-signals-edcb42a69c74?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
