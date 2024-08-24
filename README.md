@@ -29,11 +29,11 @@
 ### 🌳 Personal Website Posts
 
 <!-- feed start -->
+- Aug 23 - [Setup Jest in Angular 18](https://alfredo-perez.dev/setup-jest-in-angular-18)
 - May 06 - [TanStack Query in Angular](https://alfredo-perez.dev/tanstack-query-in-angular)
 - Feb 08 - [StoryBook setup tips for your Angular application](https://alfredo-perez.dev/storybook-setup-tips-for-your-angular-application)
 - Jan 04 - [Taming HTTP Requests with an Abstract API Service](https://alfredo-perez.dev/taming-http-requests-with-an-abstract-api-service)
 - Dec 07 - [Improve loading times with the @defer block in Angular](https://alfredo-perez.dev/improve-loading-times-with-the-defer-block-in-angular)
-- Nov 20 - [View Transitions API in Angular 17](https://alfredo-perez.dev/view-transitions-api-in-angular-17)
 <!-- feed end -->
 
 
