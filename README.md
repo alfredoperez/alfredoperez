@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Skip Angular Resource](https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba?source=rss-38963be9c57a------2)
 - [Faster Development with JetBrains AI](https://medium.com/ngconf/faster-development-with-jetbrains-ai-fdf79ecf713d?source=rss-38963be9c57a------2)
 - [Configure Jest in Angular 18](https://medium.com/ngconf/configure-jest-in-angular-18-79765fdb0fae?source=rss-38963be9c57a------2)
 - [TanStack Query in Angular](https://medium.com/ngconf/tanstack-query-in-angular-5520dab44882?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [Improve loading times with the @defer block in Angular](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?source=rss-38963be9c57a------2)
 - [Mejorando los tiempos de carga con el @defer block en Angular](https://medium.com/ngconf/mejorando-los-tiempos-de-carga-con-el-defer-block-en-angular-7a9ba1c181f1?source=rss-38963be9c57a------2)
 - [View Transitions API en Angular 17](https://medium.com/ngconf/view-transitions-api-en-angular-17-99dea9ef35e2?source=rss-38963be9c57a------2)
-- [View Transitions API in Angular 17](https://medium.com/ngconf/view-transitions-api-in-angular-17-1d1ea8bb2703?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
