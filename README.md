@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Generating Your First Rules with Cursor for Your Angular Project](https://medium.com/ngconf/generating-your-first-rules-with-cursor-for-your-angular-project-20a6d013ac9d?source=rss-38963be9c57a------2)
 - [Creating Angular Guardrails: A Guide to Custom Cursor Rules for Better Code](https://medium.com/ngconf/creating-angular-guardrails-a-guide-to-custom-cursor-rules-for-better-code-df5523eafb5d?source=rss-38963be9c57a------2)
 - [Skip Angular Resource](https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba?source=rss-38963be9c57a------2)
 - [Faster Development with JetBrains AI](https://medium.com/ngconf/faster-development-with-jetbrains-ai-fdf79ecf713d?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
 - [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
 - [Improve loading times with the @defer block in Angular](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?source=rss-38963be9c57a------2)
-- [Mejorando los tiempos de carga con el @defer block en Angular](https://medium.com/ngconf/mejorando-los-tiempos-de-carga-con-el-defer-block-en-angular-7a9ba1c181f1?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
