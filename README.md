@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Create Reliable Unit Tests with Claude Code](https://medium.com/ngconf/create-reliable-unit-tests-with-claude-code-9147d050d557?source=rss-38963be9c57a------2)
 - [Generating Your First Rules with Cursor for Your Angular Project](https://medium.com/ngconf/generating-your-first-rules-with-cursor-for-your-angular-project-20a6d013ac9d?source=rss-38963be9c57a------2)
 - [Create Cursor Rules for Angular](https://medium.com/ngconf/creating-angular-guardrails-a-guide-to-custom-cursor-rules-for-better-code-df5523eafb5d?source=rss-38963be9c57a------2)
 - [Skip Angular Resource](https://medium.com/ngconf/skip-angular-resource-ff3441e8b2ba?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [StoryBook setup tips for Angular applications](https://medium.com/ngconf/storybook-setup-tips-for-angular-applications-650692751cb4?source=rss-38963be9c57a------2)
 - [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
 - [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
-- [Improve loading times with the @defer block in Angular](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
