@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Universal Knowledge Base for AI](https://medium.com/ngconf/universal-knowledge-base-for-ai-2da5748f396c?source=rss-38963be9c57a------2)
 - [Create Reliable Unit Tests with Claude Code](https://medium.com/ngconf/create-reliable-unit-tests-with-claude-code-9147d050d557?source=rss-38963be9c57a------2)
 - [Generating Your First Rules with Cursor for Your Angular Project](https://medium.com/ngconf/generating-your-first-rules-with-cursor-for-your-angular-project-20a6d013ac9d?source=rss-38963be9c57a------2)
 - [Create Cursor Rules for Angular](https://medium.com/ngconf/creating-angular-guardrails-a-guide-to-custom-cursor-rules-for-better-code-df5523eafb5d?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [TanStack Query in Angular](https://medium.com/ngconf/tanstack-query-in-angular-5520dab44882?source=rss-38963be9c57a------2)
 - [StoryBook setup tips for Angular applications](https://medium.com/ngconf/storybook-setup-tips-for-angular-applications-650692751cb4?source=rss-38963be9c57a------2)
 - [Taming HTTP Requests with an Abstract API Service](https://medium.com/ngconf/taming-http-requests-with-an-abstract-api-service-61e73f39ed75?source=rss-38963be9c57a------2)
-- [Usando Prettier en Angular HTML](https://medium.com/ngconf/usando-prettier-en-angular-html-9e701a9cf0ce?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
