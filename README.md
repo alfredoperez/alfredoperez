@@ -13,6 +13,7 @@
 
 ### Latest Medium Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Spec-Driven Development: Stop Vibe Coding](https://medium.com/ngconf/spec-driven-development-stop-vibe-coding-c42a1f948b26?source=rss-38963be9c57a------2)
 - [Introducing ngx-dev-toolbar](https://medium.com/ngconf/introducing-ngx-dev-toolbar-53ec52cfd973?source=rss-38963be9c57a------2)
 - [Universal Knowledge Base for AI](https://medium.com/ngconf/universal-knowledge-base-for-ai-2da5748f396c?source=rss-38963be9c57a------2)
 - [Create Reliable Unit Tests with Claude Code](https://medium.com/ngconf/create-reliable-unit-tests-with-claude-code-9147d050d557?source=rss-38963be9c57a------2)
@@ -22,7 +23,6 @@
 - [Faster Development with JetBrains AI](https://medium.com/ngconf/faster-development-with-jetbrains-ai-fdf79ecf713d?source=rss-38963be9c57a------2)
 - [Configure Jest in Angular 18](https://medium.com/ngconf/configure-jest-in-angular-18-79765fdb0fae?source=rss-38963be9c57a------2)
 - [TanStack Query in Angular](https://medium.com/ngconf/tanstack-query-in-angular-5520dab44882?source=rss-38963be9c57a------2)
-- [StoryBook setup tips for Angular applications](https://medium.com/ngconf/storybook-setup-tips-for-angular-applications-650692751cb4?source=rss-38963be9c57a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
