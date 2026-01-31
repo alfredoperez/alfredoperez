@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Angular Toolbar](https://medium.com/ngconf/getting-started-with-angular-toolbar-e950672f139b?source=rss-38963be9c57a------2)
 - [Spec-Driven Development: Stop Vibe Coding](https://medium.com/ngconf/spec-driven-development-stop-vibe-coding-c42a1f948b26?source=rss-38963be9c57a------2)
-- [Introducing ngx-dev-toolbar](https://medium.com/ngconf/introducing-ngx-dev-toolbar-53ec52cfd973?source=rss-38963be9c57a------2)
+- [Introducing Angular Toolbar](https://medium.com/ngconf/introducing-ngx-dev-toolbar-53ec52cfd973?source=rss-38963be9c57a------2)
 - [Universal Knowledge Base for AI](https://medium.com/ngconf/universal-knowledge-base-for-ai-2da5748f396c?source=rss-38963be9c57a------2)
 - [Create Reliable Unit Tests with Claude Code](https://medium.com/ngconf/create-reliable-unit-tests-with-claude-code-9147d050d557?source=rss-38963be9c57a------2)
 - [Generating Your First Rules with Cursor for Your Angular Project](https://medium.com/ngconf/generating-your-first-rules-with-cursor-for-your-angular-project-20a6d013ac9d?source=rss-38963be9c57a------2)
