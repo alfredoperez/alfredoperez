@@ -29,11 +29,11 @@
 ### 🌳 Personal Website Posts
 
 <!-- feed start -->
-- Feb 13 - [Skip Angular Resource](https://alfredo-perez.dev/skip-angular-resource)
-- Sep 05 - [Faster Development with JetBrains AI](https://alfredo-perez.dev/faster-development-with-jetbrains-ai)
-- Aug 23 - [Setup Jest in Angular 18](https://alfredo-perez.dev/setup-jest-in-angular-18)
-- May 06 - [TanStack Query in Angular](https://alfredo-perez.dev/tanstack-query-in-angular)
-- Feb 08 - [StoryBook setup tips for your Angular application](https://alfredo-perez.dev/storybook-setup-tips-for-your-angular-application)
+- Feb 12 - [Angular Best Practices for AI](https://alfredo-perez.dev/blog/2026-02-12-angular-best-practices-for-ai)
+- Jan 19 - [Getting Started with Angular Toolbar](https://alfredo-perez.dev/blog/2026-01-19-getting-started-with-angular-toolbar)
+- Jan 02 - [Introducing ngx-dev-toolbar](https://alfredo-perez.dev/blog/2026-01-02-introducing-ngx-dev-toolbar)
+- Jan 02 - [Spec-Driven Development: Stop Vibe Coding](https://alfredo-perez.dev/blog/2026-01-02-stop-vibe-coding-start-shipping)
+- Oct 02 - [Universal Knowledge Base for AI](https://alfredo-perez.dev/blog/2025-10-02-universal-knowledge-base-for-ai)
 <!-- feed end -->
 
 
