@@ -22,6 +22,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://alfredo-perez.dev/rss.xml'
+          url: 'https://alfredo-perez.dev/feed.xml'
           file: 'README.md'
       - uses: sarisia/actions-commit@master
