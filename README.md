@@ -1,6 +1,6 @@
 # Alfredo Perez
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&vCenter=true&width=435&lines=UI+Engineer;Angular+GDE;Making+AI+code+smarter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=70A5FD&amp;vCenter=true&amp;width=435&amp;height=30&amp;lines=UI+Engineer;Angular+GDE;Making+AI+code+smarter" alt="Typing SVG" /></a>
 
 I build developer tools that make Angular development faster and help AI coding assistants write better code.
 
@@ -15,13 +15,14 @@ I build developer tools that make Angular development faster and help AI coding 
 ## Featured Projects
 
 <a href="https://github.com/alfredoperez/ngx-dev-toolbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=ngx-dev-toolbar&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=ngx-dev-toolbar&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 <a href="https://github.com/alfredoperez/angular-best-practices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=angular-best-practices&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=angular-best-practices&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
+
 <a href="https://github.com/alfredoperez/speckit-companion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=speckit-companion&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=speckit-companion&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 
 ---
@@ -39,7 +40,7 @@ I build developer tools that make Angular development faster and help AI coding 
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredoperez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredoperez&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
