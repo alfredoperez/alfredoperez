@@ -1,6 +1,6 @@
 # Alfredo Perez
 
-**UI Engineer | Angular GDE | Making AI code smarter**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&vCenter=true&width=435&lines=UI+Engineer;Angular+GDE;Making+AI+code+smarter" alt="Typing SVG" /></a>
 
 I build developer tools that make Angular development faster and help AI coding assistants write better code.
 
@@ -14,41 +14,33 @@ I build developer tools that make Angular development faster and help AI coding 
 
 ## Featured Projects
 
-### [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar)
-
-A powerful development toolbar for Angular applications that boosts developer productivity directly in the browser. Includes feature flag toggles, route debugging, state inspection, and more.
-
-`Angular` `TypeScript` `Developer Tools`
-
-[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/ngx-dev-toolbar?style=flat)](https://github.com/alfredoperez/ngx-dev-toolbar)
-[![Docs](https://img.shields.io/badge/docs-website-blue)](https://alfredoperez.github.io/ngx-dev-toolbar/)
-
----
-
-### [angular-best-practices](https://github.com/alfredoperez/angular-best-practices)
-
-Curated Angular best practices designed for AI coding agents. A structured knowledge base that helps tools like Cursor, Claude, and Copilot generate idiomatic Angular code.
-
-`Angular` `AI` `Best Practices`
-
-[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/angular-best-practices?style=flat)](https://github.com/alfredoperez/angular-best-practices)
-[![Web](https://img.shields.io/badge/browse-website-blue)](https://angular-best-practices-web.vercel.app/)
-
----
-
-### [speckit-companion](https://github.com/alfredoperez/speckit-companion)
-
-A VS Code extension that brings spec-driven development to AI coding assistants. Features a visual workflow editor, progress tracking, and steering file management.
-
-`VS Code Extension` `TypeScript` `AI`
-
-[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/speckit-companion?style=flat)](https://github.com/alfredoperez/speckit-companion)
+<a href="https://github.com/alfredoperez/ngx-dev-toolbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=ngx-dev-toolbar&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/alfredoperez/angular-best-practices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=angular-best-practices&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/alfredoperez/speckit-companion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&repo=speckit-companion&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
 ## Tech Focus
 
-`Angular` `TypeScript` `AI-Assisted Development` `VS Code Extensions` `NestJS` `Tailwind CSS` `Nx/Turborepo`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,vscode,nestjs,tailwind,git,figma" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredoperez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
