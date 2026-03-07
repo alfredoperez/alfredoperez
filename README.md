@@ -14,16 +14,22 @@ I build developer tools that make Angular development faster and help AI coding 
 
 ## Featured Projects
 
-<a href="https://github.com/alfredoperez/ngx-dev-toolbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=ngx-dev-toolbar&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
-<a href="https://github.com/alfredoperez/angular-best-practices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=angular-best-practices&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
+### [`ngx-dev-toolbar`](https://github.com/alfredoperez/ngx-dev-toolbar)
+> A powerful development toolbar for Angular applications — feature flag toggles, route debugging, state inspection, and more.
 
-<a href="https://github.com/alfredoperez/speckit-companion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfredoperez&amp;repo=speckit-companion&amp;theme=tokyonight&amp;hide_border=true" />
-</a>
+[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/ngx-dev-toolbar?style=flat&color=70A5FD)](https://github.com/alfredoperez/ngx-dev-toolbar)
+[![Docs](https://img.shields.io/badge/docs-website-70A5FD)](https://alfredoperez.github.io/ngx-dev-toolbar/)
+
+### [`angular-best-practices`](https://github.com/alfredoperez/angular-best-practices)
+> Curated Angular best practices for AI coding agents — helps Cursor, Claude, and Copilot generate idiomatic Angular code.
+
+[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/angular-best-practices?style=flat&color=70A5FD)](https://github.com/alfredoperez/angular-best-practices)
+[![Web](https://img.shields.io/badge/browse-website-70A5FD)](https://angular-best-practices-web.vercel.app/)
+
+### [`speckit-companion`](https://github.com/alfredoperez/speckit-companion)
+> A VS Code extension for spec-driven development — visual workflow editor, progress tracking, and steering file management.
+
+[![GitHub stars](https://img.shields.io/github/stars/alfredoperez/speckit-companion?style=flat&color=70A5FD)](https://github.com/alfredoperez/speckit-companion)
 
 ---
 
@@ -40,7 +46,7 @@ I build developer tools that make Angular development faster and help AI coding 
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredoperez&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=alfredoperez&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
