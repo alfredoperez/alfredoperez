@@ -38,14 +38,13 @@
 </td>
 <td width="50%" valign="top">
 
-### [angular-best-practices](https://github.com/alfredoperez/angular-best-practices)
+### [SDD](https://github.com/alfredoperez/sdd)
 
-> Curated Angular best practices for AI coding agents — helps Cursor, Claude, and Copilot generate idiomatic Angular code.
+> Spec-Driven Development — a Claude Code plugin for structured AI-assisted development workflows.
 
-<a href="https://github.com/alfredoperez/angular-best-practices"><img src="https://img.shields.io/github/stars/alfredoperez/angular-best-practices?style=for-the-badge&color=70A5FD" /></a>
-<a href="https://angular-best-practices-web.vercel.app/"><img src="https://img.shields.io/badge/browse-website-BB9AF7?style=for-the-badge" /></a>
+<a href="https://github.com/alfredoperez/sdd"><img src="https://img.shields.io/github/stars/alfredoperez/sdd?style=for-the-badge&color=70A5FD" /></a>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/AI-000?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-000?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 </td>
 </tr>
